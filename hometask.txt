@@ -1,1 +1,22 @@
 Файлы human.txt ничем не отличаются, но файл в master был получен слиянием пуговиц, шляпы и ботинок, а demo был получен изначально.
+Комментарии из коммитов:
+
+ветка boots_buttons:
+init
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+
+ветка master:
+init
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+hometask
